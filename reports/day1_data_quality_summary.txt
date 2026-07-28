@@ -1,0 +1,83 @@
+============================================================
+DAY 1 – DATA QUALITY SUMMARY
+BlueStock Fintech Internship
+============================================================
+
+1. DATASETS LOADED
+------------------
+Total Datasets Loaded : 10
+
+Status : SUCCESS
+
+------------------------------------------------------------
+
+2. MISSING VALUES
+-----------------
+Dataset :
+04_monthly_sip_inflows.csv
+
+Column :
+yoy_growth_pct
+
+Missing Values :
+12
+
+------------------------------------------------------------
+
+3. DUPLICATE ROWS
+-----------------
+No duplicate rows were found in any dataset.
+
+------------------------------------------------------------
+
+4. LIVE NAV DATA
+----------------
+Successfully fetched and saved NAV data for:
+
+• HDFC Top 100
+• SBI Bluechip
+• ICICI Bluechip
+• Nippon Large Cap
+• Axis Bluechip
+• Kotak Bluechip
+
+Total NAV files created : 6
+
+------------------------------------------------------------
+
+5. FUND MASTER ANALYSIS
+------------------------
+Total Schemes : 40
+
+Fund Houses : 10
+
+Categories :
+• Equity
+• Debt
+
+Risk Categories :
+• Low
+• Moderate
+• Moderately High
+• High
+• Very High
+
+------------------------------------------------------------
+
+6. AMFI VALIDATION
+------------------
+Total AMFI Codes : 40
+
+Validated Successfully : YES
+
+Missing Codes : 0
+
+------------------------------------------------------------
+
+FINAL STATUS
+
+Day 1 Tasks Completed Successfully.
+
+Prepared by:
+Marripudi Divya Bhanu
+BlueStock Fintech – Data Analyst Intern
